@@ -1,0 +1,7 @@
+D:\exercises\day2\ConsoleApp3loops\ConsoleApp3loops\bin\Debug\ConsoleApp3loops.exe.config
+D:\exercises\day2\ConsoleApp3loops\ConsoleApp3loops\bin\Debug\ConsoleApp3loops.exe
+D:\exercises\day2\ConsoleApp3loops\ConsoleApp3loops\bin\Debug\ConsoleApp3loops.pdb
+D:\exercises\day2\ConsoleApp3loops\ConsoleApp3loops\obj\Debug\ConsoleApp3loops.csproj.AssemblyReference.cache
+D:\exercises\day2\ConsoleApp3loops\ConsoleApp3loops\obj\Debug\ConsoleApp3loops.csproj.CoreCompileInputs.cache
+D:\exercises\day2\ConsoleApp3loops\ConsoleApp3loops\obj\Debug\ConsoleApp3loops.exe
+D:\exercises\day2\ConsoleApp3loops\ConsoleApp3loops\obj\Debug\ConsoleApp3loops.pdb
